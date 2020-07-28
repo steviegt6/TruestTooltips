@@ -1,0 +1,7 @@
+displayName = Truest Tooltips
+author = convicted tomatophile (Stevie)
+version = 1.0.0
+homepage = todo
+includeSource = true
+includePDB = true
+side = client

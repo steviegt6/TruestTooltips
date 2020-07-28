@@ -1,0 +1,1 @@
+A highly configurable mod based around Terraria tooltips. Inspired by TrueTooltips.
